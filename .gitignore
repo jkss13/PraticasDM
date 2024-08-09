@@ -1,0 +1,14 @@
+*.iml
+EmprestaAi/.gradle
+EmprestaAi/local.properties
+/EmprestaAi/.idea/caches
+/EmprestaAi/.idea/libraries
+/EmprestaAi/.idea/modules.xml
+/EmprestaAi/.idea/workspace.xml
+/EmprestaAi/.idea/navEditor.xml
+/EmprestaAi/.idea/assetWizardSettings.xml
+/EmprestaAi/.DS_Store
+/EmprestaAi/build
+/EmprestaAi/captures
+/EmprestaAi/.externalNativeBuild
+/EmprestaAi/.cxx
